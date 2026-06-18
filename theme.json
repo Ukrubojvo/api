@@ -1,9 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
 	"include": "./dark_vs.json",
-  "colors": {
-		"editor.background": "#000001",
-	},
 	"tokenColors": [
 		{
 			"name": "Function declarations",
@@ -199,5 +196,9 @@
 		"stringLiteral":"#df795f",
 		"customLiteral": "#d3c277",
 		"numberLiteral": "#B5CE89",
-	}
+	},
+	"colors": {
+		"editor.background": "#000001",
+		"sideBar.background": "#000001",
+	},
 }
